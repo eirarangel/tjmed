@@ -45,7 +45,7 @@
       <div class="col-md-12">
             <h3>{{ link_to("especialidades", Lang::get('messages.tittle_1')) }}</h3>   
         
-        <div class="row popup-gallery">        
+     
           <a href="{{ url('categoria/1') }}">
           <article class="col-md-2 col-sm-2 boxed-project">
             <div class="img-container">
@@ -112,7 +112,7 @@
           </article> 
           </a>
 
-          <a href="{{ url('especialidad/28') }}">
+          <a href="{{ url('especialidad/48') }}">
           <article class="col-md-2 col-sm-2 boxed-project">
             <div class="img-container">
                 <img src="images/e_Cir plastica.png" alt="" width="263" height="263">   
@@ -126,7 +126,6 @@
           </article> 
           </a>
 
-      </div>
 
     </div>
   </div>
